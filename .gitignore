@@ -60,10 +60,10 @@ logs
 terrain
 
 #kos
-/kos/build_real_offline/
-/kos/build_real_online/
-/kos/build_sim_offline/
-/kos/build_sim_online/
+kos/build_real_offline/
+kos/build_real_online/
+kos/build_sim_offline/
+kos/build_sim_online/
 
 #mav
 /mavproxy/
