@@ -199,3 +199,12 @@ void printMission() {
         }
     }
 }
+
+MissionCommand* getMissionCommands(){
+    return commands;
+}
+
+
+uint32_t getCommandsNum(){
+    return commandNum;
+}

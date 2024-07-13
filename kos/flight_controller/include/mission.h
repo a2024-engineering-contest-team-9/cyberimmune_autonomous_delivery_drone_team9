@@ -52,3 +52,6 @@ struct MissionCommand {
 
 int parseMission(char* response);
 void printMission();
+
+MissionCommand* getMissionCommands();
+uint32_t getCommandsNum();
