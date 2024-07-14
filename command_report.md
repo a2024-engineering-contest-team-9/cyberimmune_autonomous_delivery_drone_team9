@@ -5,7 +5,7 @@
 | Leader-ID | Name |
 | ------ | ------ |
 | 398576 | [Волкова Евгения](https://github.com/gtariell)|
-| 6153151 | Костин Владимир(https://github.com/St1nk0) |
+| 6153151 | [Костин Владимир](https://github.com/St1nk0) |
 | 1257686 | [Акулин Максим](https://github.com/Max297) |
 | 5790620 | [Мозговая Юлия](https://github.com/muv11) |
 
